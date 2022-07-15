@@ -13,7 +13,7 @@
 # print(*COUNT.values())
 
 
-# exersice2
+# exercise2
 # def biggerIsGreater(w):
 #     arr = list(w)
 #
